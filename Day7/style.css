@@ -1,0 +1,21 @@
+/* .container {
+    border: 3px solid red;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .box {
+    border: 2px solid blue;
+    min-height: 100px;
+    width: 400px;
+}
+
+@media (max-width:579pd) {
+    .container {
+        grid-template-columns: 1fr 1fr;
+    }
+} */
+body{
+    padding: 10px;
+}
